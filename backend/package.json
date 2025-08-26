@@ -1,0 +1,25 @@
+{
+  "name": "homeworks5-backend",
+  "version": "1.0.0",
+  "main": "src/app.module.js",
+  "scripts": {
+    "start": "node src/app.module.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@nestjs/common": "^11.1.6",
+    "@nestjs/core": "^11.1.6",
+    "@nestjs/platform-express": "^11.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "knex": "^2.4.2",
+    "pg": "^8.11.1",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
